@@ -1,0 +1,19 @@
+{
+  "name": "who-likes-it",
+  "version": "1.0.0",
+  "description": "Codewars 6kyu - Who Likes It",
+  "main": "functions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SMLarsen/who-likes-it.git"
+  },
+  "author": "Steve Larsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SMLarsen/who-likes-it/issues"
+  },
+  "homepage": "https://github.com/SMLarsen/who-likes-it#readme"
+}
